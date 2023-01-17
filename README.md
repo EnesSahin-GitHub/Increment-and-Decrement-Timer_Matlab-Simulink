@@ -1,5 +1,4 @@
 # Increment-and-Decrement-Timer_Matlab-Simulink
-In this study, I made an increasing and decreasing timer on Simulink.
 Model Settings;
   Solver;
     Simulation time -> Start time: 0.0 / Stop time: 20
